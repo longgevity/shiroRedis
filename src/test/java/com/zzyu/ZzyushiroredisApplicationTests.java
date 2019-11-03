@@ -1,4 +1,4 @@
-package com.zzyu.zzyushiroredis;
+package com.zzyu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
